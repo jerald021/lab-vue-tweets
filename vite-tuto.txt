@@ -1,0 +1,4 @@
+git clone url
+npm install
+npm install -g vite
+run server command: vite
